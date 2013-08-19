@@ -31,12 +31,8 @@
     <distributionManagement>
         <repository>
             <id>repo</id>
-            <url>https://raw.github.com/anatolyg/mvn.geyfman.net/master/releases</url>
+            <url>https://github.com/anatolyg/mvn.geyfman.net/raw/master/releases</url>
         </repository>
-        <snapshotRepository>
-            <id>snapshot-repo</id>
-            <url>https://raw.github.com/anatolyg/mvn.geyfman.net/master/snapshots</url>
-        </snapshotRepository>
     </distributionManagement>
 
 </project>
